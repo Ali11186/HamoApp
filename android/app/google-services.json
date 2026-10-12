@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060700733682",
+    "project_id": "ali-offer",
+    "storage_bucket": "ali-offer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060700733682:android:d0d48eb33b4b46c49d906b",
+        "android_client_info": {
+          "package_name": "com.mohammed.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDNfnSymqooU1TVMI3tUze6bqBw9rOdaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
